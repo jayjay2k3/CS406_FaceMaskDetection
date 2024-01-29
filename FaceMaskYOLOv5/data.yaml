@@ -1,0 +1,9 @@
+train: /content/drive/MyDrive/FaceMaskDetection_datasets/train
+val: /content/drive/MyDrive/FaceMaskDetection_datasets/valid
+test: /content/drive/MyDrive/FaceMaskDetection_datasets/test
+
+# number of classes
+nc: 3
+
+# class names
+names: ['0', '1', '2']
